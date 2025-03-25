@@ -1,4 +1,4 @@
-# Elistria Calling
+# Elistria's Calling
 
 Devs: Lore Natusol + Kaitlyn Kinsey
 
