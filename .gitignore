@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Elistria_Calling/Saved/Crashes/
+
+Elistria_Calling/Saved/
